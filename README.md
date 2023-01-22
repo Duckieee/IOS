@@ -6,4 +6,5 @@ Univerzitní projekt do předmětu IOS (Operační systémy - Operating Systems)
 
 Synchronizační problém z knihy The Little Book of Semaphores. Viz zadání projektu.
 
-
+### Hodnocení projektu
+15/15 bodů
